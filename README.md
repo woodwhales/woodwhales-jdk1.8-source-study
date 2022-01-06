@@ -6,6 +6,8 @@ JDK 版本：jdk-8u201
 
 本项目存储目录为：D:\code\woodwhales\woodwhales-jdk1.8-source-study
 
+JDK 源码地址：https://hg.openjdk.java.net/
+
 ## IDEA 编译环境配置
 
 ### 环境配置
